@@ -1,7 +1,7 @@
 {
   "name": "node-git-cli-utility",
   "version": "1.0.0",
-  "description": "cli to fetch some git metadata",
+  "description": "Node cli interface to fetch some git metadata",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
