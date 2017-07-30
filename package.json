@@ -1,0 +1,16 @@
+{
+  "name": "node-git-cli-utility",
+  "version": "1.0.0",
+  "description": "cli to fetch some git metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhara Tamhane",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "command-line-args": "^4.0.6",
+    "github": "^9.2.0"
+  }
+}
