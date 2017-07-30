@@ -105,6 +105,7 @@ function constructAndPrintAuthorsData(data) {
             pullReq.state !== "open" ? authorStats[pullReq.user.login].mergedPR += 1 : "";
         }
     });
+    prettyPrintAuthors(authorStats);
 }
 
 function init() {
