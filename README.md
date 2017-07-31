@@ -16,3 +16,6 @@ Simple node cli interface to query and represent GIT data via GIT APIs
 
 #Screenshots
 
+![Alt text](/screenshots/sample_fb_react.png?raw=true "")
+
+![Alt text](/screenshots/sample_invalid.png "")
